@@ -1,0 +1,6 @@
+{
+  "name": "Aether 3D Admin Dashboard",
+  "description": "Futuristic 3D E-Commerce Command Center featuring interactive charts, 3D product rendering, live order tracking, customer intelligence, and AI-driven market intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
